@@ -1,3 +1,4 @@
+`Contruindo um ecommerce com NextJS`
 ## Getting Started
 
 ```bash
@@ -10,5 +11,3 @@ npm run dev
 
 yarn dev
 ```
-
-`Contruindo um ecommerce com NextJS`
